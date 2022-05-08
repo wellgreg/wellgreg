@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wellgreg
+- 👀 I am interested in mathematics and information systems
+- 🌱 I’m currently learning in technical university
+- 📫 You can contact me here: ei.borisenkov.collab@yandex.ru
